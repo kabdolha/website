@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Blog — Kareem Abdol‑Hamid</title>
+  <meta name="description" content="Notes and links I find worth keeping." />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .post{margin:24px 0 28px}
+    .post-title{font-size:1.35rem; margin:0 0 8px; line-height:1.25}
+    .post-title a{ text-decoration: underline; text-underline-offset:3px; }
+    .post-date{ color:var(--muted); margin:2px 0 8px }
+    .post-desc{ margin:0 0 8px }
+    .post + hr{ margin-top:22px; }
+  </style>
+</head>
+<body>
+   <main class="wrap">
+    <h1>All Opinions are <strong>My</strong> Own</h1>
+    <p class="social">(My blogs)</p>
+
+    <div id="posts"></div>
+  </main>
+
+  <!-- Simpler: inline config (no fetch) -->
+<script type="application/json" id="blog-config">
+[
+  {
+    "title": "Announcing Capacity Blocks support for AWS Parallel Computing Service",
+    "url": "https://aws.amazon.com.rproxy.goskope.com/blogs/hpc/announcing-capacity-blocks-support-for-aws-parallel-computing-service/",
+    "date": "2025-09-18",
+    "description": "AWS PCS now supports Amazon EC2 Capacity Blocks, enabling you to reserve GPU-accelerated instances like NVIDIA Hopper and AWS Trainium for future ML and HPC workloads. Key benefits: reserved access, flexible scheduling, resource sharing, and seamless integration with PCS clusters."
+  }
+]
+</script>
+<script>
+  const data = JSON.parse(document.getElementById('blog-config').textContent);
+  data.sort((a,b) => (b.date > a.date) ? 1 : (b.date < a.date ? -1 : 0));
+  const wrap = document.getElementById('posts');
+  data.forEach((p, idx) => {
+    const div = document.createElement('article');
+    div.className = 'post';
+    div.innerHTML = `
+      <h3 class="post-title"><a href="${p.url}" target="_blank" rel="noopener">${p.title}</a></h3>
+      <div class="post-date">${p.date}</div>
+      <p class="post-desc">${p.description || ''}</p>
+    `;
+    wrap.appendChild(div);
+    if (idx !== data.length - 1) wrap.appendChild(document.createElement('hr'));
+  });
+</script>
+</body>
+</html>

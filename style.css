@@ -1,0 +1,124 @@
+/* layout */
+:root{
+  --fg:#2a2a2a;
+  --muted:#6b7280;
+  --link:#2a2a2a;
+  --bg:#fafafa;
+  --rule:#e5e7eb;
+  /* texture */
+  --texture-opacity:.6; /* final light-mode opacity */
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: 'Fira Code', monospace;
+  background:var(--bg);
+  color:var(--fg);
+  line-height:1.65;
+  font-size:17px;
+  position:relative; /* create stacking context for the texture */
+}
+.wrap{
+  max-width:760px;
+  margin:32px auto;
+  padding:0 20px;
+}
+h1{
+  font-family: "Julius Sans One", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size:28px;
+  margin:0 0 18px;
+  letter-spacing:.2px;
+}
+hr{
+  border:0;
+  height:1px;
+  background:var(--rule);
+  margin:22px 0;
+}
+
+/* lists */
+/* lists */
+ul{padding-left:1.5rem; margin:0 0 8px; list-style:none}
+ul li{position:relative; margin:6px 0;}
+/* ul li::before{
+  content:"";
+  position:absolute;
+  left:-1.2rem;
+  top:0.85em;
+  transform:translateY(-50%);
+  width:0.75rem;
+  height:0.75rem;
+  background: currentColor;
+  -webkit-mask:url('bullet.svg') no-repeat center/contain;
+          mask:url('bullet.svg') no-repeat center/contain;
+} */
+li::before {
+  content: '';
+  display: inline-block;
+  height: .75rem;
+  width: .75rem;
+  vertical-align: middle;
+  background-image: url(bullet.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 0.5rem;
+}
+li:nth-child(odd)::before {
+  transform: rotate(15deg);
+}
+li:nth-child(even)::before {
+  transform: rotate(-75deg);
+}
+
+
+
+
+/* text */
+strong{font-weight:600}
+a{
+  color:var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+a:hover{opacity:.9}
+.social{color:var(--muted); margin-top:6px}
+
+/* nice, comfy spacing on mobile */
+@media (max-width:480px){
+  .wrap{margin:40px auto 80px}
+  h1{font-size:24px}
+}
+
+/* ──────────────────────────────────────────────────────────────
+   Minimal top-left texture (rotated 45° + static opacity)
+   Save your image as `texture.png` next to this CSS or adjust the path. 
+   ────────────────────────────────────────────────────────────── */
+body::before{
+  content:"";
+  position:fixed;
+  top:-6.5rem;
+  left:-6.5rem;
+  width:56vmin;
+  height:56vmin;
+  background:url('texture.png') center / 65% no-repeat; /* adjust if needed */
+  opacity:var(--texture-opacity);
+  pointer-events:none;
+  z-index:0;
+  filter:none;
+}
+/* Make sure content sits above the texture */
+.site-header, #content, .site-footer{position:relative; z-index:1}
+
+/* Optional: tune contrast for dark mode if your source art is dark-on-light. */
+@media (prefers-color-scheme: dark){
+  body::before{
+    /* If your image is black lines on white, this keeps it visible but quiet */
+    filter:invert(1) brightness(.35);
+  }
+}
+h1,h2,h3,h4,h5,h6{
+font-weight:400; /* remove bold from all headings */
+font-family: 'Fira Code', monospace;
+}

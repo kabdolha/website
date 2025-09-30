@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Announcing Capacity Blocks support for AWS Parallel Computing Service",
+    "url": "https://aws.amazon.com.rproxy.goskope.com/blogs/hpc/announcing-capacity-blocks-support-for-aws-parallel-computing-service/",
+    "date": "2025-09-18",
+    "description": "AWS PCS now supports Amazon EC2 Capacity Blocks, enabling you to reserve GPU-accelerated instances like NVIDIA Hopper and AWS Trainium for future ML and HPC workloads. The post highlights reserved access, flexible scheduling, resource sharing, and seamless integration into PCS clusters."
+  }
+]
