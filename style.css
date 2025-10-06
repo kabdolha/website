@@ -5,6 +5,7 @@
   --link:#2a2a2a;
   --bg:#fafafa;
   --rule:#e5e7eb;
+  --spacing: .25rem;
   /* texture */
   --texture-opacity:.6; /* final light-mode opacity */
 }
@@ -24,6 +25,10 @@ body{
   max-width:760px;
   margin:32px auto;
   padding:0 20px;
+}
+.site-header {
+  margin-top: calc(var(--spacing)*16);
+
 }
 h1{
   font-family: "Julius Sans One", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
@@ -91,23 +96,24 @@ a:hover{opacity:.9}
   h1{font-size:24px}
 }
 
+.hero-banner {
+  width: 100%;
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.hero-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
 /* ──────────────────────────────────────────────────────────────
    Minimal top-left texture (rotated 45° + static opacity)
    Save your image as `texture.png` next to this CSS or adjust the path. 
    ────────────────────────────────────────────────────────────── */
-body::before{
-  content:"";
-  position:fixed;
-  top:-6.5rem;
-  left:-6.5rem;
-  width:56vmin;
-  height:56vmin;
-  background:url('texture.png') center / 65% no-repeat; /* adjust if needed */
-  opacity:var(--texture-opacity);
-  pointer-events:none;
-  z-index:0;
-  filter:none;
-}
+
 /* Make sure content sits above the texture */
 .site-header, #content, .site-footer{position:relative; z-index:1}
 
