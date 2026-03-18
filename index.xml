@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Kareem&#039;s Digital Cloud</title>
+      <title>kareem.cloud</title>
       <link>https://kareem.cloud</link>
-      <description>Last 10 notes on Kareem&#039;s Digital Cloud</description>
+      <description>Last 10 notes on kareem.cloud</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>All Opinions are My Own</title>
-    <link>https://kareem.cloud/blog</link>
-    <guid>https://kareem.cloud/blog</guid>
-    <description><![CDATA[ Blog Posts The RECON Framework for LLM Inference 2025-12-28 · Day 1 Inference A foundational examination of how modern systems serve large language models efficiently, introducing the five-layer RECON framework: Routing, Engine, Cache, Orchestration, and Nodes. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:10:01 GMT</pubDate>
-  </item><item>
-    <title>Various Interests</title>
+    <title>kareem.cloud | interests</title>
     <link>https://kareem.cloud/interests</link>
     <guid>https://kareem.cloud/interests</guid>
     <description><![CDATA[ Consume Books Currently reading: Breakneck: China’s Quest to Engineer the Future by Dan Wang What If? 10th Anniversary Edition: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe Recently read: The Communist Manifesto by Karl Marx · ★★★★★ — If anything everyone should read... ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:10:01 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 22:12:53 GMT</pubDate>
   </item><item>
-    <title>Areas</title>
-    <link>https://kareem.cloud/2-Areas/</link>
-    <guid>https://kareem.cloud/2-Areas/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
+    <title>kareem.cloud | blogs</title>
+    <link>https://kareem.cloud/blog</link>
+    <guid>https://kareem.cloud/blog</guid>
+    <description><![CDATA[ Blog Posts The RECON Framework for LLM Inference 2025-12-28 · Day 1 Inference A foundational examination of how modern systems serve large language models efficiently, introducing the five-layer RECON framework: Routing, Engine, Cache, Orchestration, and Nodes. ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:12:53 GMT</pubDate>
   </item><item>
-    <title>Resources</title>
+    <title>kareem.cloud | resources</title>
     <link>https://kareem.cloud/3-Resources/</link>
     <guid>https://kareem.cloud/3-Resources/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 22:12:47 GMT</pubDate>
   </item><item>
-    <title>Digital Cloud</title>
-    <link>https://kareem.cloud/digital-cloud</link>
-    <guid>https://kareem.cloud/digital-cloud</guid>
-    <description><![CDATA[  Welcome to my Digital Cloud — a living collection of ideas, notes, and connected thoughts. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
+    <title>kareem.cloud | droplets</title>
+    <link>https://kareem.cloud/2-Areas/Droplet/</link>
+    <guid>https://kareem.cloud/2-Areas/Droplet/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:12:46 GMT</pubDate>
   </item><item>
-    <title>Kareem Abdol-Hamid</title>
-    <link>https://kareem.cloud/</link>
-    <guid>https://kareem.cloud/</guid>
-    <description><![CDATA[ Welcome to my digital cloud → ideas, tech, and me. Currently: Sr. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
+    <title>kareem.cloud | clouds</title>
+    <link>https://kareem.cloud/2-Areas/Clouds/</link>
+    <guid>https://kareem.cloud/2-Areas/Clouds/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:12:45 GMT</pubDate>
   </item><item>
-    <title>Projects</title>
+    <title>kareem.cloud | areas</title>
+    <link>https://kareem.cloud/2-Areas/</link>
+    <guid>https://kareem.cloud/2-Areas/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:12:44 GMT</pubDate>
+  </item><item>
+    <title>kareem.cloud | projects</title>
     <link>https://kareem.cloud/1-Projects/</link>
     <guid>https://kareem.cloud/1-Projects/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 22:12:43 GMT</pubDate>
+  </item><item>
+    <title>kareem.cloud | digital cloud</title>
+    <link>https://kareem.cloud/digital-cloud</link>
+    <guid>https://kareem.cloud/digital-cloud</guid>
+    <description><![CDATA[  Welcome to my Digital Cloud — a living collection of ideas, notes, and connected thoughts. ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:12:20 GMT</pubDate>
+  </item><item>
+    <title>kareem.cloud</title>
+    <link>https://kareem.cloud/</link>
+    <guid>https://kareem.cloud/</guid>
+    <description><![CDATA[ Welcome to my digital cloud → ideas, tech, and me. Currently: Sr. ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:12:12 GMT</pubDate>
   </item><item>
     <title>Developing a Note Taking Systems</title>
     <link>https://kareem.cloud/2-Areas/Clouds/Developing-a-Note-Taking-Systems</link>
     <guid>https://kareem.cloud/2-Areas/Clouds/Developing-a-Note-Taking-Systems</guid>
     <description><![CDATA[ Transclude of cloud Insight or Idea Background Note-taking and writing have many frameworks and some are going to work better for other people. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
-  </item><item>
-    <title>Emergent Note Taking</title>
-    <link>https://kareem.cloud/2-Areas/Clouds/Emergent-Note-Taking</link>
-    <guid>https://kareem.cloud/2-Areas/Clouds/Emergent-Note-Taking</guid>
-    <description><![CDATA[ Transclude of cloud Insight or Idea In order for notes to develop novel ideas you need to be intentional about what you’ve learned from something and how it my connect to other ideas. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
-  </item><item>
-    <title>Organizing Notes</title>
-    <link>https://kareem.cloud/2-Areas/Clouds/Organizing-Notes</link>
-    <guid>https://kareem.cloud/2-Areas/Clouds/Organizing-Notes</guid>
-    <description><![CDATA[ Transclude of cloud Insight or Idea There are more in depth reasons why PARA may be a good method but this insight is specifically why it works for me and my needs. ]]></description>
     <pubDate>Wed, 18 Mar 2026 22:05:19 GMT</pubDate>
   </item>
     </channel>
