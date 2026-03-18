@@ -6,17 +6,17 @@
       <description>Last 10 notes on kareem.cloud</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>All Opinions are My Own</title>
+    <link>https://kareem.cloud/blog</link>
+    <guid>https://kareem.cloud/blog</guid>
+    <description><![CDATA[ Storms Building a Note-Taking System That Actually Works My Articles The RECON Framework for LLM Inference 2025-12-28 · Day 1 Inference A foundational examination of how modern systems serve large language models efficiently, introducing the five-layer RECON framework: Routing, Engine, Cache, Orches... ]]></description>
+    <pubDate>Wed, 18 Mar 2026 22:22:37 GMT</pubDate>
+  </item><item>
     <title>Various Interests</title>
     <link>https://kareem.cloud/interests</link>
     <guid>https://kareem.cloud/interests</guid>
     <description><![CDATA[ Consume Books Currently reading: Breakneck: China’s Quest to Engineer the Future by Dan Wang What If? 10th Anniversary Edition: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe Recently read: The Communist Manifesto by Karl Marx · ★★★★★ — If anything everyone should read... ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:22:03 GMT</pubDate>
-  </item><item>
-    <title>All Opinions are My Own</title>
-    <link>https://kareem.cloud/blog</link>
-    <guid>https://kareem.cloud/blog</guid>
-    <description><![CDATA[ Storms Building a Note-Taking System That Actually Works [1-Projects/Storm/My Note Taking System (WIP)](./1-Projects/Storm/My Note Taking System (WIP)) My Articles The RECON Framework for LLM Inference 2025-12-28 · Day 1 Inference A foundational examination of how modern systems serve large language... ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:22:03 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 22:22:37 GMT</pubDate>
   </item><item>
     <title>Building a Note-Taking System That Actually Works</title>
     <link>https://kareem.cloud/Storm-ZettelKasten</link>
