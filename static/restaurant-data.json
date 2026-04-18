@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "al-di-la-trattoria",
+    "title": "Al Di La Trattoria",
+    "stars": 4,
+    "vibe": "date-night",
+    "status": "reviewed",
+    "date": "2026-04-17",
+    "review": "The pasta here is unreal. Get the tagliatelle with the bolognese ragu.",
+    "google_maps_url": "https://www.google.com/maps/place/Al+Di+La+Trattoria/@40.6745203,-73.9811043,17z/",
+    "place_id": null,
+    "lat": 40.6745203,
+    "lng": -73.9811043
+  }
+]
