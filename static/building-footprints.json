@@ -72,6 +72,44 @@
     {
       "type": "Feature",
       "properties": {
+        "slug": "little-purity",
+        "status": "reviewed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9881695,
+              40.6653302
+            ],
+            [
+              -73.9881081,
+              40.6654036
+            ],
+            [
+              -73.9878731,
+              40.6652896
+            ],
+            [
+              -73.9879345,
+              40.6652162
+            ],
+            [
+              -73.9880982,
+              40.6652957
+            ],
+            [
+              -73.9881695,
+              40.6653302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "slug": "7th-ave-donuts",
         "status": "reviewed"
       },
