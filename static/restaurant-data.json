@@ -1,15 +1,15 @@
 [
   {
-    "slug": "al-di-la-trattoria",
-    "title": "Al Di La Trattoria",
-    "stars": 4,
-    "vibe": "date-night",
+    "slug": "7th-ave-donuts",
+    "title": "7th Ave Donuts",
+    "stars": null,
+    "vibe": "casual-sit-down",
     "status": "reviewed",
-    "date": "2026-04-17",
-    "review": "The pasta here is unreal. Get the tagliatelle with the bolognese ragu.",
-    "google_maps_url": "https://www.google.com/maps/place/Al+Di+La+Trattoria/@40.6745203,-73.9811043,17z/",
+    "date": "2026-04-19",
+    "review": "It's a friendly local diner, cash only nothing crazy.",
+    "google_maps_url": "https://maps.app.goo.gl/mzfWDMazZDPtPjWt9",
     "place_id": null,
-    "lat": 40.6745203,
-    "lng": -73.9811043
+    "lat": 40.6672739,
+    "lng": -73.984115
   }
 ]
