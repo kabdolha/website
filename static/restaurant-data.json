@@ -1,5 +1,31 @@
 [
   {
+    "slug": "crosta",
+    "title": "Crosta",
+    "stars": null,
+    "vibe": "sit-down",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": null,
+    "google_maps_url": "https://maps.app.goo.gl/dcDrhhH4ynKweJXDA",
+    "place_id": null,
+    "lat": 40.6653374,
+    "lng": -73.9852631
+  },
+  {
+    "slug": "brookvin",
+    "title": "Brookvin",
+    "stars": null,
+    "vibe": "bar",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "I'm not a wine guy but I liked what I had here, the vibe was really nice but this place really shines with the excellent staff. Everyone there is so friendly, they'll remember your name, it's a great place to go to as a local and get to know the staff.",
+    "google_maps_url": "https://maps.app.goo.gl/dcDrhhH4ynKweJXDA",
+    "place_id": null,
+    "lat": 40.6653374,
+    "lng": -73.9852631
+  },
+  {
     "slug": "7th-ave-donuts",
     "title": "7th Ave Donuts",
     "stars": null,

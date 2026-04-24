@@ -6,17 +6,17 @@
       <description>Last 10 notes on kareem.cloud</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Various Interests</title>
-    <link>https://kareem.cloud/interests</link>
-    <guid>https://kareem.cloud/interests</guid>
-    <description><![CDATA[ Consume Books Currently reading: A Short History of Nearly Everything by Bill Bryson The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal Recently read: The Hedgehog and the Fox: An Essay on Tolstoy’s View of History by Isaiah Berli... ]]></description>
-    <pubDate>Fri, 24 Apr 2026 17:11:12 GMT</pubDate>
-  </item><item>
     <title>All Opinions are My Own</title>
     <link>https://kareem.cloud/blog</link>
     <guid>https://kareem.cloud/blog</guid>
     <description><![CDATA[ My Articles Building a Note-Taking System That Actually Works 2026-03-18 · kareem.cloud The author argues that effective notetaking systems are highly personal and emergent from individual experimentation rather than following universal best practices—successful systems combine techniques from vario... ]]></description>
-    <pubDate>Fri, 24 Apr 2026 17:11:12 GMT</pubDate>
+    <pubDate>Fri, 24 Apr 2026 17:12:32 GMT</pubDate>
+  </item><item>
+    <title>Various Interests</title>
+    <link>https://kareem.cloud/interests</link>
+    <guid>https://kareem.cloud/interests</guid>
+    <description><![CDATA[ Consume Books Currently reading: A Short History of Nearly Everything by Bill Bryson The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal Recently read: The Hedgehog and the Fox: An Essay on Tolstoy’s View of History by Isaiah Berli... ]]></description>
+    <pubDate>Fri, 24 Apr 2026 17:12:32 GMT</pubDate>
   </item><item>
     <title>7th Ave Donuts</title>
     <link>https://kareem.cloud/2-Areas/Parked-in-Slope/7th-Ave-Donuts</link>
@@ -28,6 +28,18 @@
     <link>https://kareem.cloud/2-Areas/Parked-in-Slope/American-Cheese</link>
     <guid>https://kareem.cloud/2-Areas/Parked-in-Slope/American-Cheese</guid>
     <description><![CDATA[ Awesome dive-y bar with good pizza. Most “pizza bars” have passable slices but American Cheez put a bit more effort/thought into it. ]]></description>
+    <pubDate>Sun, 19 Apr 2026 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>Brookvin</title>
+    <link>https://kareem.cloud/2-Areas/Parked-in-Slope/Brookvin</link>
+    <guid>https://kareem.cloud/2-Areas/Parked-in-Slope/Brookvin</guid>
+    <description><![CDATA[ I’m not a wine guy but I liked what I had here, the vibe was really nice but this place really shines with the excellent staff. ]]></description>
+    <pubDate>Sun, 19 Apr 2026 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>Crosta</title>
+    <link>https://kareem.cloud/2-Areas/Parked-in-Slope/Crosta</link>
+    <guid>https://kareem.cloud/2-Areas/Parked-in-Slope/Crosta</guid>
+    <description><![CDATA[  ]]></description>
     <pubDate>Sun, 19 Apr 2026 04:00:00 GMT</pubDate>
   </item><item>
     <title>Parked in Slope</title>
@@ -53,18 +65,6 @@
     <guid>https://kareem.cloud/2-Areas/Clouds/Organizing-Notes</guid>
     <description><![CDATA[ Transclude of cloud Insight or Idea There are more in depth reasons why PARA may be a good method but this insight is specifically why it works for me and my needs. ]]></description>
     <pubDate>Wed, 18 Mar 2026 22:41:01 GMT</pubDate>
-  </item><item>
-    <title>Emergent Note Taking</title>
-    <link>https://kareem.cloud/2-Areas/Clouds/Emergent-Note-Taking</link>
-    <guid>https://kareem.cloud/2-Areas/Clouds/Emergent-Note-Taking</guid>
-    <description><![CDATA[ Transclude of cloud Insight or Idea In order for notes to develop novel ideas you need to be intentional about what you’ve learned from something and how it my connect to other ideas. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:40:50 GMT</pubDate>
-  </item><item>
-    <title>Digital Cloud</title>
-    <link>https://kareem.cloud/digital-cloud</link>
-    <guid>https://kareem.cloud/digital-cloud</guid>
-    <description><![CDATA[  Welcome to my Digital Cloud — a living collection of ideas, notes, and connected thoughts. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:25:27 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -4,6 +4,74 @@
     {
       "type": "Feature",
       "properties": {
+        "slug": "crosta",
+        "status": "reviewed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.985266,
+              40.6654047
+            ],
+            [
+              -73.9853183,
+              40.6654299
+            ],
+            [
+              -73.9852188,
+              40.6655488
+            ],
+            [
+              -73.9851665,
+              40.6655236
+            ],
+            [
+              -73.985266,
+              40.6654047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "slug": "brookvin",
+        "status": "reviewed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.985266,
+              40.6654047
+            ],
+            [
+              -73.9853183,
+              40.6654299
+            ],
+            [
+              -73.9852188,
+              40.6655488
+            ],
+            [
+              -73.9851665,
+              40.6655236
+            ],
+            [
+              -73.985266,
+              40.6654047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "slug": "7th-ave-donuts",
         "status": "reviewed"
       },
