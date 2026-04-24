@@ -11,5 +11,18 @@
     "place_id": null,
     "lat": 40.6672739,
     "lng": -73.984115
+  },
+  {
+    "slug": "american-cheese",
+    "title": "American Cheese",
+    "stars": null,
+    "vibe": "bar",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "Awesome dive-y bar with good pizza. Most \"pizza bars\" have passable slices but American Cheez put a bit more effort/thought into it. The bartenders are super friendly, nothing glamorous but a great place to land during a night out.",
+    "google_maps_url": "https://maps.app.goo.gl/QZqd5auX9qh6ELpp6",
+    "place_id": null,
+    "lat": 40.663293,
+    "lng": -73.9874542
   }
 ]

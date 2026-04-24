@@ -6,22 +6,28 @@
       <description>Last 10 notes on kareem.cloud</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>All Opinions are My Own</title>
-    <link>https://kareem.cloud/blog</link>
-    <guid>https://kareem.cloud/blog</guid>
-    <description><![CDATA[ My Articles Building a Note-Taking System That Actually Works 2026-03-18 · kareem.cloud The author argues that effective notetaking systems are highly personal and emergent from individual experimentation rather than following universal best practices—successful systems combine techniques from vario... ]]></description>
-    <pubDate>Fri, 24 Apr 2026 17:10:21 GMT</pubDate>
-  </item><item>
     <title>Various Interests</title>
     <link>https://kareem.cloud/interests</link>
     <guid>https://kareem.cloud/interests</guid>
     <description><![CDATA[ Consume Books Currently reading: A Short History of Nearly Everything by Bill Bryson The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It by Kelly McGonigal Recently read: The Hedgehog and the Fox: An Essay on Tolstoy’s View of History by Isaiah Berli... ]]></description>
-    <pubDate>Fri, 24 Apr 2026 17:10:21 GMT</pubDate>
+    <pubDate>Fri, 24 Apr 2026 17:11:12 GMT</pubDate>
+  </item><item>
+    <title>All Opinions are My Own</title>
+    <link>https://kareem.cloud/blog</link>
+    <guid>https://kareem.cloud/blog</guid>
+    <description><![CDATA[ My Articles Building a Note-Taking System That Actually Works 2026-03-18 · kareem.cloud The author argues that effective notetaking systems are highly personal and emergent from individual experimentation rather than following universal best practices—successful systems combine techniques from vario... ]]></description>
+    <pubDate>Fri, 24 Apr 2026 17:11:12 GMT</pubDate>
   </item><item>
     <title>7th Ave Donuts</title>
     <link>https://kareem.cloud/2-Areas/Parked-in-Slope/7th-Ave-Donuts</link>
     <guid>https://kareem.cloud/2-Areas/Parked-in-Slope/7th-Ave-Donuts</guid>
     <description><![CDATA[ It’s a friendly local diner, cash only nothing crazy. ]]></description>
+    <pubDate>Sun, 19 Apr 2026 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>American Cheese</title>
+    <link>https://kareem.cloud/2-Areas/Parked-in-Slope/American-Cheese</link>
+    <guid>https://kareem.cloud/2-Areas/Parked-in-Slope/American-Cheese</guid>
+    <description><![CDATA[ Awesome dive-y bar with good pizza. Most “pizza bars” have passable slices but American Cheez put a bit more effort/thought into it. ]]></description>
     <pubDate>Sun, 19 Apr 2026 04:00:00 GMT</pubDate>
   </item><item>
     <title>Parked in Slope</title>
@@ -59,12 +65,6 @@
     <guid>https://kareem.cloud/digital-cloud</guid>
     <description><![CDATA[  Welcome to my Digital Cloud — a living collection of ideas, notes, and connected thoughts. ]]></description>
     <pubDate>Wed, 18 Mar 2026 22:25:27 GMT</pubDate>
-  </item><item>
-    <title>Resources</title>
-    <link>https://kareem.cloud/3-Resources/</link>
-    <guid>https://kareem.cloud/3-Resources/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 18 Mar 2026 22:18:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
