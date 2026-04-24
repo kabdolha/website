@@ -4,6 +4,40 @@
     {
       "type": "Feature",
       "properties": {
+        "slug": "sotto-voce",
+        "status": "reviewed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9837044,
+              40.6697487
+            ],
+            [
+              -73.983756,
+              40.6697741
+            ],
+            [
+              -73.9836692,
+              40.6698761
+            ],
+            [
+              -73.9836182,
+              40.669852
+            ],
+            [
+              -73.9837044,
+              40.6697487
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "slug": "crosta",
         "status": "reviewed"
       },
