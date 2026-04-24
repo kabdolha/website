@@ -26,6 +26,19 @@
     "lng": -73.9852631
   },
   {
+    "slug": "muse",
+    "title": "Muse",
+    "stars": null,
+    "vibe": "cafe",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "It definitely has coffee",
+    "google_maps_url": "https://maps.app.goo.gl/Gv5x3csRH4Y3Z4Xy9",
+    "place_id": null,
+    "lat": 40.6662418,
+    "lng": -73.98834
+  },
+  {
     "slug": "little-purity",
     "title": "Little Purity",
     "stars": null,
@@ -50,6 +63,32 @@
     "place_id": null,
     "lat": 40.6672739,
     "lng": -73.984115
+  },
+  {
+    "slug": "locanda-mariella",
+    "title": "Locanda Mariella",
+    "stars": null,
+    "vibe": "sit-down",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "Really home-y Italian joint, lots of competition in this neighborhood, I think it's a nice vibe, their specials are always interesting, but it's not the best Italian I've ever had.",
+    "google_maps_url": "https://maps.app.goo.gl/VDCTzs9eu5s2sREm9",
+    "place_id": null,
+    "lat": 40.6662419,
+    "lng": -73.9883293
+  },
+  {
+    "slug": "norm-s-pizza",
+    "title": "Norm's Pizza",
+    "stars": null,
+    "vibe": "grab-and-go",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "Eh. Probably some of the worst pizza I've had in NY, the place barely has a menu, and it closes early so it really has nothing going for it. There's a Joe's around the corner and a Smiling Pizza up north a couple blocks that at least make a decent slice.",
+    "google_maps_url": "https://maps.app.goo.gl/9MNnFtT2VDfa8SfD9",
+    "place_id": null,
+    "lat": 40.6656848,
+    "lng": -73.9945318
   },
   {
     "slug": "american-cheese",
