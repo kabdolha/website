@@ -2,7 +2,7 @@
   {
     "slug": "sottovoce",
     "title": "SottoVoce",
-    "stars": null,
+    "stars": 5,
     "vibe": "sit-down",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -15,7 +15,7 @@
   {
     "slug": "crosta",
     "title": "Crosta",
-    "stars": null,
+    "stars": 3,
     "vibe": "sit-down",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -28,7 +28,7 @@
   {
     "slug": "brookvin",
     "title": "Brookvin",
-    "stars": null,
+    "stars": 4,
     "vibe": "bar",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -41,7 +41,7 @@
   {
     "slug": "muse",
     "title": "Muse",
-    "stars": null,
+    "stars": 2,
     "vibe": "cafe",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -54,7 +54,7 @@
   {
     "slug": "little-purity",
     "title": "Little Purity",
-    "stars": null,
+    "stars": 5,
     "vibe": "casual-sit-down",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -67,7 +67,7 @@
   {
     "slug": "7th-ave-donuts",
     "title": "7th Ave Donuts",
-    "stars": null,
+    "stars": 2,
     "vibe": "casual-sit-down",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -80,7 +80,7 @@
   {
     "slug": "locanda-mariella",
     "title": "Locanda Mariella",
-    "stars": null,
+    "stars": 3,
     "vibe": "sit-down",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -93,7 +93,7 @@
   {
     "slug": "winner",
     "title": "WINNER",
-    "stars": null,
+    "stars": 3,
     "vibe": "grab-and-go",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -106,7 +106,7 @@
   {
     "slug": "norm-s-pizza",
     "title": "Norm's Pizza",
-    "stars": null,
+    "stars": 1,
     "vibe": "grab-and-go",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -119,7 +119,7 @@
   {
     "slug": "vato",
     "title": "Vato",
-    "stars": null,
+    "stars": 5,
     "vibe": "grab-and-go",
     "status": "reviewed",
     "date": "2026-04-19",
@@ -132,7 +132,7 @@
   {
     "slug": "american-cheese",
     "title": "American Cheese",
-    "stars": null,
+    "stars": 3,
     "vibe": "bar",
     "status": "reviewed",
     "date": "2026-04-19",
