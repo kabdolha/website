@@ -91,6 +91,19 @@
     "lng": -73.9883293
   },
   {
+    "slug": "winner",
+    "title": "WINNER",
+    "stars": null,
+    "vibe": "grab-and-go",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "meeeh I haven't had their bread but I've only had one good sandwich there. The place is overpriced, but their chicken salad sandwich is really good. I'd honestly skip it there are better places to get food in the neighborhood.",
+    "google_maps_url": "https://maps.app.goo.gl/CpV5tggsq4xbvaVM6",
+    "place_id": null,
+    "lat": 40.6702342,
+    "lng": -73.9893257
+  },
+  {
     "slug": "norm-s-pizza",
     "title": "Norm's Pizza",
     "stars": null,
@@ -102,6 +115,19 @@
     "place_id": null,
     "lat": 40.6656848,
     "lng": -73.9945318
+  },
+  {
+    "slug": "vato",
+    "title": "Vato",
+    "stars": null,
+    "vibe": "grab-and-go",
+    "status": "reviewed",
+    "date": "2026-04-19",
+    "review": "What's not to like. Fire tortillas, great baked goods. The only shitty thing is the line but what are you gonna do it's great food. Also their egg burritos aren't for me, but I'm just not an egg guy.\n\nI'd honestly argue you should just get the bean and cheese burrito because the tortillas are the star of the show.",
+    "google_maps_url": "https://maps.app.goo.gl/AE9rC1x3Ldo6s5Q1A",
+    "place_id": null,
+    "lat": 40.6702347,
+    "lng": -73.9815741
   },
   {
     "slug": "american-cheese",
